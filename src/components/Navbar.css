@@ -1,0 +1,33 @@
+.nav-btn {
+
+    background-color: black;
+    display: inline-block;
+    width: 60px;
+    border-radius: 15px;
+    padding: 10px;
+    color: orange;
+}
+
+.nav-btn:hover {
+
+    background-color: orange;
+    color: black;
+
+}
+
+.container-btn {
+
+    display: inline-block;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 15px;
+    width: 370px;
+
+}
+
+.title {
+
+    display: block;
+    color:skyblue;
+
+}

@@ -1,0 +1,44 @@
+.profile-img {
+
+    border-radius: 100%;
+    display: block;
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+}
+
+.profile-description {
+
+    display: inline-block;
+    margin: 20px;
+    max-width: 400px;
+
+}
+
+.container-network{
+
+    margin: 30px;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: black;
+
+}
+
+.network {
+
+    display: inline-block;
+    padding: 15px;
+    background-color: paleturquoise;
+    border-radius: 15px;
+    width: 80px;
+
+
+}
+
+.network:hover {
+
+    background-color: pink;
+
+
+}
